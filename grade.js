@@ -18,6 +18,6 @@ function calculateGrade() {
     alert("Grade: " + grade);
   }
   
-  // Call the calculateGrade function
+  
   calculateGrade();
   
